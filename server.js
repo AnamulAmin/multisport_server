@@ -47,6 +47,7 @@ app.use(
       "https://multisports.com.bd",
       "http://multisports.com.bd",
       "https://king-prawn-app-qkhg8.ondigitalocean.app",
+      "https://multisports-u6s5-git-main-aadelbanat8991gmailcoms-projects.vercel.app",
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
     allowedHeaders: ["Content-Type", "Authorization"],
